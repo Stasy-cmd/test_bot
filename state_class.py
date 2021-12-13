@@ -1,6 +1,6 @@
 from transitions import Machine
 
-from classOrder import *
+from class_order import *
 from user_enum import *
 
 
